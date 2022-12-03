@@ -1,0 +1,23 @@
+{
+    "id": "f07d7a2c-c052-4414-aef3-7ba00aea7371",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Nabhag Motivaras",
+        "homepage": "n/a",
+        "support": "n/a"
+    },
+    "name": "ui-kit",
+    "nameSlug": "ui-kit",
+    "classFile": "UiKitApp.ts",
+    "description": "contains component",
+    "permissions": [
+        {
+            "name": "ui.registerButtons"
+        }
+    ],
+    "implements": [
+        "IUIKitInteractionHandler"
+    ]
+}
